@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T11:08:03.002Z",
+  "updatedAt": "2026-07-27T10:01:15.849Z",
   "catalogUrl": "tools.json",
   "tools": [
     {
@@ -15,6 +15,9 @@
       },
       "engines": {
         "host": ">=1.4.0"
+      },
+      "author": {
+        "name": "Dami"
       },
       "version": "1.0.0",
       "releasedAt": "2026-07-24T08:49:38Z",
@@ -37,6 +40,9 @@
       },
       "engines": {
         "host": ">=1.4.0"
+      },
+      "author": {
+        "name": "Dami"
       },
       "version": "1.0.0",
       "releasedAt": "2026-07-24T08:50:28Z",
